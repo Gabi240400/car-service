@@ -1,0 +1,3 @@
+class InvalidCarException(Exception):
+    pass
+
